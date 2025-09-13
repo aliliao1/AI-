@@ -1,0 +1,7 @@
+{
+  "name": "Copy of 防止詐騙的APP Copy of Fraud Prevention Assistant 02",
+  "description": "An application that uses AI to analyze the risk of fraud in chats, URLs, and text messages, providing a fraud score and access to official resources.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
